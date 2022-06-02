@@ -4,3 +4,9 @@ plotly
 datetime
 streamlit
 os
+
+python -m venv venv
+
+venv\Scripts\activate
+
+pip install -r requirements.txt
